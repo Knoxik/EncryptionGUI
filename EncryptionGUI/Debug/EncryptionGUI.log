@@ -1,0 +1,3 @@
+﻿  EncryptionGUI.cpp
+  .NETFramework,Version=v4.6.2.AssemblyAttributes.cpp
+LINK : fatal error LNK1561: entry point must be defined
